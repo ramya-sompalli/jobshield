@@ -2,6 +2,10 @@
 
 An end-to-end ML system that detects fake job postings using NLP + Machine Learning.
 
+A machine learning web app that detects fraudulent job postings using NLP and ensemble models.
+
+🔗 **Live App:** [jobshield-5mbvwahuqbqwoumac4gcij.streamlit.app](https://jobshield-5mbvwahuqbqwoumac4gcij.streamlit.app/)
+
 ---
 
 ## 🎯 Problem
